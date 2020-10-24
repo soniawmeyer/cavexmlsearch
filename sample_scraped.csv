@@ -1,0 +1,437 @@
+"Serial","Name","Name_NoPunct","Location","Subloc","AltNames","AltNames_NoPunct","Length","Depth","Altitude","NGRSquare","NGREastings","NGRNorthings","OSGB36Eastings","OSGB36Northings","WGS84Latitude","WGS84Longitude","Description","Notes","Links","RegNotes","LocNotes","HydroFeed","HydroResurg","Geology","Registry","Tags","EditTime","EditAuthor"
+"4827","Dovethirl Cove S","Dovethirl Cove S","Aberdeenshire, Kincardineshire","nr Uras Knapps, Fowls Heugh",,,"70","30","-9","NO","87909","80872","387909","780872","56.91900151017519","-2.200222672863059","A seacave with a very tall triangular opening, which soon drops down to a much lower tunnel on the same general direction as Henry's Scorth. After going through this narrows, there is a long straight rift tunnel which goes up narrowly a long way. At 9 Sep 20, the end has not been reached. On this day the tide level was 2.2 m ACD and it would have been much more comfortable below this.","Length is a visual estimate by Nigel Feilden. The VR is based on the height of the cliff and a photo. Depth measured 9/9/20 and converted to Alt.
+
+""Two caves, in Fowls Heugh frequented by flocks of blue pigeons."" (1)","1. OS1/19/6/96 Dovethirl Coves
+
+2. 1st Ed 25"" OS for location
+
+3. www.geograph.org.uk/photo/6590059  Dovethirl Cove S is on the left.",,,,,"Whitehouse Conglomerate Formation","main","SeaCave;SSSI","2020-09-12 18:29:51","nigelf"
+"1167","Pibble Gulch Mine","Pibble Gulch Mine","Kirkcudbrightshire","Creetown, Moneypool Burn, near Pibble",,,NULL,NULL,NULL,"NX","52300","61500","252300","561500","54.9262660568338","-4.30639574575056","Mine, Trial",,"aditnow. 
+
+Gazetteer of Metal Mines of Scotland, p. 50.  
+
+Mines of South-west Scotland, p. 25.
+ 
+Non-Ferrous Metal Mines of South-west Scotland, p. 16.",,"52300    61500    6",,,"Lead","second","Mine;Trial;ManMade;Archaeo","2020-10-04 14:59:50","jcrae"
+"839","Glione Bhriste (Uamh)","Glione Bhriste Uamh","Invernessshire","Skye, Coille Gaireallach, Beinn an Dubhaich","Broken Glass (Cave of)","Broken Glass Cave of","30",NULL,"40","NG","59700","19800","159700","819800","57.2057498773974","-5.98051524271028","Cave. Entrance squeeze between boulders at obvious flood rising 70 m W of rising of Uamh an Ard Achadh [High Pasture Cave].  Initial squeeze leads to short crawl & 2 m high chamber where running water audible. Hands & knees crawl leads on with oxbow on left to pool ending in chamber |& impenetrable slot. 
+Existence of Uamh an Ard Achadh stream proved by broken glass littered through cave. Little prospect of further extension.","Explored & surveyed by MSG, 31 March 1975.","CoSkye, Ryder, Peter F., 1995, p. 30.",,"59700    19800    6",,,"Limestone","main","Cave","2018-02-01 13:20:13","jcrae"
+"4629","Cave of Two Blunders","Cave of Two Blunders","Ross and Cromarty","Applecross",,,"17",NULL,NULL,"NG","73008","44679","173008","844679","57.435531604726854","-5.7835975064357985",,,"Bull. GSG 4th Series Vol.5 No.4 (2013)p.38",,,,,,"main","Cave","2018-05-28 18:09:00","alanj"
+"3889","Malcolm's Head Cave [1]","Malcolms Head Cave 1","Shetland","Fair Isle, Malcolm's Head",,,NULL,NULL,NULL,"HZ","19552","70474","419552","1070474","59.5197669316082","-1.65623710249659","Sea cave at the base of steep cliffs to the south of Malcolm's Head.",,"Pastmap.",,"19552    70474    6",,,,"main","Cave;SeaCave","2020-09-19 22:24:01","jcrae"
+"1835","Keaw Cove","Keaw Cove","Kirkcudbrightshire","Kirkcudbright Bay, Keaw Cove, Drumamoss",,,NULL,NULL,NULL,"NX","67500","44600","267500","544600","54.7787634726339","-4.06162234676175","Cave?","See also Torr's Cave [1441].","OS 1951, Kirkcudbrightshire Sheet 58 NW.",,"67500    44600    6",,,,"main","Cave","2018-03-15 10:35:31","jcrae"
+"318","Balquhidder Trials","Balquhidder Trials","Perthshire","Balquhidder, Loch Voil",,,NULL,NULL,NULL,"NN","51000","19200","251000","719200","56.3416363216559","-4.41215714217031","Trial.
+
+Of the Barony of Ballquhidder...There is a lead mine in this barony which was wrought upon for a short time about the year 1736. It did not promise a great deal. [Annexed Estates]
+
+""several trials have been made, but no proper vein discovered"". [OSA]
+
+""Veins of galena or lead glance traversing the mica-slate occur in several parts, but none of these appear to have been worked for the ore they contain."" [NSA]",,"Gazetteer of Metal Mines of Scotland, p. 7. 
+
+http://www.chuckspeed.com/balquhidder/history/reports_annexed_estates.htm. 
+
+NAS RHP3482. Plan of Balquhidder shows location of lead mine. 
+
+https://theses.ncl.ac.uk/dspace/bitstream/10443/570/1/stewart86.pdf
+
+Stewart, Duncan, Parish of Balquhidder 39 [in] Sinclair, Sir John 1977 The Statistical Account of Scotland 1791-1799 12 North and West Perthshire
+
+RE. Mr MCGregor, Balquhidder, County of Perth, NSA, Vol. X, 1845.",,"51000    19200    6",,,"Lead","second","Mine;Trial;ManMade;Archaeo","2020-09-20 13:06:12","jcrae"
+"3556","* Cave (Findon)"," Cave Findon","Aberdeenshire, Kincardineshire","Findon, SW of Findon Ness",,,NULL,NULL,NULL,"NO","94266","97349","394266","797349","57.06714183204646","-2.096189118396998","Sea Cave",,,,"94266    97349    8",,,,"main","Cave;SeaCave","2019-03-07 11:45:00","jcrae"
+"1126","Nighian (Uamh na)","Nighian Uamh na","Argyllshire","Mull, W of Carn Ban, between Loch Spelve and Loch Don","Nighean (Uamh na), Girl's Cave, Daughter's Cave, Maiden's Cave","Nighean Uamh na Girl’s Cave Daughter’s Cave Maidens Cave",NULL,NULL,NULL,"NM","74132","29342","174132","729342","56.402156942885","-5.66209659323084","Cave","No direct translation for Nighian but Nighean or Nighinn translates as Girl or daughter. More probable is Cave of the Wash but this would be Uamh na Nigh.","6"" OS 1900 OS Sheet 97 Argyllshire SE  56° 24' 7.2""N / 5° 39' 38.6""W. 
+Auto Lat/Long conversion to NGR. Original lat/long misread.",,"74132    29342    8",,,,"main","Cave","2018-02-07 18:33:08","jcrae"
+"1473","Tartair (Uamh an) [Cnoc nan Uamh]","Tartair Uamh an Cnoc nan Uamh","Sutherland","Inchnadamph, Traligill, Cnoc nan Uamh","Cave of the Roaring","Cave of the Roaring",NULL,NULL,"221","NC","27600","20600","227600","920600","58.1405929098652","-4.93028751146805","The arch seen at a distance is the trifling Cave of Roaring, (E.E. Roberts 1937). 
+
+Despite this description above, a small hole at the right hand side of the second of the two obvious chambers leads through a tightish squeeze into a sometimes flooding stream chamber. Beyond this stream either through one of three low wet crawls (only passable in extremely dry weather) or a dry crawl near the top of the rubble slope to the right leads to one of the largest cave systems in Assynt. 
+
+Cave of Roaring.-1939. Mr. W. Fairbank in the second chamber broke a way through into a considerable cavern with a burn which must be above the Cave of Water. Rigg had previously been down the great slab in the latter.
+
+Inchnadamf. - 1947.  Mr. A. L. Butcher and a Sheffield University party explored ... the Cnoc nam Uamh caves, of Water and Roaring, they worked upstream and found the series ends in a huge pool in a chamber at least 200 ft. long.
+
+1952. -  Marshall and Stoney ... visited the Inchnadamff Cave of Roaring and cleared up the mystery. [What mystery?]
+
+The stream level in wet weather can sometimes be dangerous often blocking the route further into the cave. It the levels are dubious on arrival do not enter. Rising levels may not block the exit but can make crossing the stream an extreme risk as the water flow could carry unwary cavers into the flooded passages downstream.","Should not be confused with the other Uamh an Tartair at Knockan. 
+
+The Gaelic word 'tartair' translates literally as roaring but this is also the main entrance to the Cnoc nan Uamh System.
+
+For downstream sections see Pothole Entrance and Uamh an Uisge (aka The Waterslide). Length Given in entry for Cnoc nan Uamh.","Caves of Assynt, p. 33.
+
+YRC Committee (1938) Cave Exploration. Yorkshire Ramblers' Club Journal Volume 7 Number 23: pp79-88. Leeds: YRC.
+
+YRC Committee (1947) Cave Exploration. Yorkshire Ramblers' Club Journal Volume 7 Number 24: pp177-183. Leeds: YRC.
+
+YRC Committee (1949) Cave Exploration. Yorkshire Ramblers' Club Journal Volume 7 Number 25: pp266-277. Leeds: YRC.
+
+YRC Committee (1954) On The Hills. Yorkshire Ramblers' Club Journal Volume 8 Number 27: pp79-82. Leeds: YRC.
+
+YRC Committee (1954) Cave Exploration. Yorkshire Ramblers' Club Journal Volume 8 Number 27: pp83-89. Leeds: YRC.",,"27600    20600    6
+Position updated - 2007.",,,"Limestone","main","Cave","2019-03-04 17:20:15","jcrae"
+"2313","McFarquhar's Cave","McFarquhars Cave","Aberdeenshire","Cromarty, McFarquhar's Bed","McFarquhar's Cave, MacFarquhar's Cave","McFarquhars Cave MacFarquhars Cave",NULL,NULL,NULL,"NH","79817","65272","279817","865272","57.66124344864896","-4.016029958626656","Sea Cave.
+
+This name is given to a small Cave in which an eccentric old man belonging to Cromarty at some remote period, resided in for several years.",,"Scotland's Places",,"79817    65272    6",,,,"second","Cave;SeaCave","2020-01-17 18:09:05","jcrae"
+"1572","Cairn Cave","Cairn Cave","Sutherland","Assynt, Creag nan Uamh",,,"4",NULL,NULL,"NC","27063","16786","227063","916786","58.1061723352718","-4.93657759169933","Cave","Coordinates estimated. Paced 140 m from Rana Hole at heading of 248 deg.
+
+NC 26840 16640 or NC 26765 16820 are more likely coordinates.","TJ Log 1995",,"27063    16786    4",,,,"main","Cave","2018-02-23 13:21:30","jcrae"
+"700","Drumruck Mine","Drumruck Mine","Kirkcudbrightshire","E of Water of Fleet, E of Drumruck, NW of Doon of Culreoch",,,NULL,NULL,NULL,"NX","58200","63600","258200","563600","54.9468346864051","-4.2154411216494","This mine is situated on the E side of the valley of the Little Water of Fleet, on the NW flank of the Doon of Culreoch. Four levels are ranged across the hillside, on an axis from WNW to ESE, with a shuttered concrete tank (possibly a settling pond) and a concrete winding-mechanism base on the terrace at the WNW side of the workings. A brick-built magazine lies on a terrace a little to the S of the mine. The mine was opened a few years before the First World War (it is not shown on the revision of the 2nd edition of the OS 6-inch map (Kirkcudbrightshire 1908, sheet xli), but the [poor] efficiency of the crusher resulted in the loss of the majority of the ore (Wilson and Flett, 1921). Wilson and Flett identified three levels (NX 5825 6367,NX 5834 6361 and NX 5847 6357), the lowest one of which was about 800 ft long. [Canmore]","Opened before 1914 by Co. Murray Baillie of Cally. On east bank of Little Water of Fleet, opposite Scrogs of Drumruck. (Donnachie).
+
+NX584637 marked as disused mine shaft on Outdoor Leisure 32 map.
+
+Slight discrepancy between the Canmore record and the Historic Environment Record. Canmore coordinates (a single point) place the mine south of the HER coordinates (a large roughly rectangular area) but both are in a similar location north-west of  the Doon of Culreoch, due east of Drumruck Farm . Scarring and spoil heaps are still visible on aerial photography.","aditnow. 
+
+Gazetteer of Metal Mines of Scotland, p. 21. 
+
+Mines of South-west Scotland, p. 13. 
+
+Non-Ferrous Metal Mines of South-west Scotland, p. 18.
+
+Index of Placenames in Girthon & Anwoth
+
+Historic Environment Record, MDG9818.
+
+Canmore ID  88543.
+
+Bing Maps, aerial photography.
+
+Wilson, G V. (1921) Special reports on the mineral resources of Great Britain. Vol.17 - The lead, zinc, copper and nickel ores of Scotland, Memoirs of the Geological Survey. Edinburgh. Page(s): 123-4.",,"58200    63600    6
+58300    62800",,,"Copper","second","Mine;ManMade;Archaeo","2020-10-04 16:52:27","jcrae"
+"1403","Tillicoultry Mine","Tillicoultry Mine","Clackmannanshire","Tillicoultry, Mill Glen","Tillicoultry","Tillicoultry",NULL,NULL,NULL,"NS","91200","98100","291200","698100","56.1631076057647","-3.75351351221282","Mine","Despite some sources claiming Tillicoutry Mine is in Perthshire, this site is definitely in Clackmannanshire.","aditnow.
+Journal, Glasgow Spel. Society Vol.1 No.2 (1964) p.3
+GMMoS, p. 60.",,"91200    98100    6",,,"Copper","second","Mine;ManMade;Archaeo","2018-06-04 10:23:59","alanj"
+"1319","Shelf (Uamh an t-)","Shelf Uamh an t","Invernessshire","Skye, Coille Gaireallach","Shelf Cave, Sgeilp (Uamh an t-), CG22, C.G. 22","Shelf Cave Sgeilp Uamh an t CG22 CG 22","27.4","7.6","91","NG","60486","19674","160486","819674","57.2050321116277","-5.96741494063423","Hole",,"CoSkye, p. 41.",,"60486    19674    10
+Mar 2008 - updated position.",,,"Limestone","main","Hole","2018-02-13 19:08:33","jcrae"
+"3105","Monkcastle Fireclay Mine","Monkcastle Fireclay Mine","Ayrshire","Dalry, High Monkcastle",,,NULL,NULL,NULL,"NS","27955","47535","227955","647535","55.6906860698328","-4.73859977737255","Mine",,,,"27955    47535    8",,,"Fireclay","second","Mine","2018-03-26 10:09:36","alanj"
+"345","Caird's Cave [2]","Cairds Cave 2","Aberdeenshire","Colliston, N of Slains Castle",,,"5",NULL,"0","NK","05541","30631","405541","830631","57.3661158145854","-1.90952991808218","Cave","Caird or Cairt appears to be old Scots for Gypsy or Traveller.","GSG Bulletin 3.4.1 Oct/1996, p. 27, in Young, Ivan, The Lost Cave of  Slains pp. 27-30.",,"05541    30631    8",,,,"main","Cave","2018-04-05 12:41:00","jcrae"
+"2525","Loch Ness [Overview]","Loch Ness Overview","Invernessshire","Loch Ness","Loch Ness (Caves of)","Loch Ness Caves of",NULL,NULL,NULL,"NH","50500","23500","250500","823500","57.2775998901255","-4.48137322558314","A generic reference which covers a very wide area. There are three known caves , Corrie's Cave, Dunbonnet's Cave and Abriachan Cave but there are also references  to mythical underwater caves.","See also Corrie's Cave, Dunbonnet's Cave and Abriachan Cave.",,,"50500    23500    4",,,,"second","Other","2019-01-29 11:50:33","jcrae"
+"4035","Killin No. 4","Killin No 4","Perthshire, Stirlingshire","Killin,S of Loch Tay, NW of Lochan Breaclaich",,,NULL,NULL,NULL,"NN","61600","32008","261600","732008","56.4598343755308","-4.24759066802389","Sink",,,,"61600    3200899    4",,,,"second","Sink","2018-03-26 09:48:21","alanj"
+"4286","Airigh nam Faochag (Uamh)","Airigh nam Faochag Uamh","Invernessshire","North Uist","Sheiling of the Whelks (Cave of the)","Sheiling of the Whelks Cave of the",NULL,NULL,NULL,"NF","92877","67176","92877","867176","57.5897572119516","-7.14168307349515","Cave?",,,,"92877    67176    6",,,,"second","Cave","2018-03-24 10:13:54","alanj"
+"1303","Sgoltaich Fhada [2] (Uamh an)","Sgoltaich Fhada 2 Uamh an","Argyllshire","Appin, Bealach","Sgoltaidh Fhada [2] (Uamh an), Long Cleft [2]","Sgoltaidh Fhada 2 Uamh an Long Cleft 2","10",NULL,"195","NM","97690","51150","197690","751150","56.6084318931867","-5.29801403918312","Cave","See also Uamh an Sgoltaich 1, 3 & 4 [1302], [1304] & [1305].","AppCG, p. 11.
+Bull. GSG 2nd Series Vol.2 No.1 (1977) p.28",,"97690    51150    8
+Mar 2008 - updated position.",,,"Limestone","main","Cave","2018-04-14 17:50:49","alanj"
+"1606","Colonel's Cave","Colonel’s Cave","Aberdeenshire","Inverey, Creag a' Chait",,,NULL,NULL,NULL,"NO","08700","88700","308700","788700","56.9804449335052","-3.50379783235668","Cave","Original coordinates not very accurate revised position from 10 K map.","CoSBib.
+
+CPNA. Mlne, John, 1904, Celtic Place Names in Aberdeenshire.",,"08700    88700    6
+[08033]    [88452]",,,,"main","Cave","2018-02-26 17:32:34","jcrae"
+"844","Gortantaoid Point [2]","Gortantaoid Point 2","Argyllshire","Islay, 500 m NE of Gortanaoid Point",,,NULL,NULL,NULL,"NR","33600","74691","133600","674691","55.891420925717576","-6.262406504298516","Cave, contains deposits and constructions.",,"Discovery & Excavation, New Series Volume 3, 2002, p.18. 
+
+Islay Caves Project, 2002.
+
+Pastmap.
+
+Canmore ID 239409.
+
+WoSAS PIn 50710.",,"33600    74690    8",,,,"main","Cave;Archaeo","2020-09-11 12:43:00","jcrae"
+"4187","Lod Saile Cave","Lod Saile Cave","Wester Ross","Outer Hebrides, Lewis, Camas na Clibhe, NW of Lod Saile",,,NULL,NULL,NULL,"NB","07744","36720","107744","936720","58.22193892573103","-6.979499866657595","Sea Cave",,,,"07744    36720    8",,,,"main","Cave;SeaCave","2018-05-22 18:14:22","jcrae"
+"290","Brierhaugh Cave","Brierhaugh Cave","Angus","Arbroath, Auchmithie, Rumkemno, Rumness","Arbroath Cave [37]","Arbroath Cave 37",NULL,NULL,NULL,"NO","68893","45225","368893","745225","56.5978858923469","-2.50821130813702","Sea Cave","Location from unattributed and not to scale plan of caves of Arbroath. Coordinates from Streetmap.","Streetmap.",,"68893    45225    6",,,,"main","Cave;SeaCave","2020-09-18 19:11:04","jcrae"
+"227","Allt Aulavaig Cave [5]","Allt Aulavaig Cave 5","Invernessshire","Skye, Sleat, Ord, Tokavaig",,,"2","1","124","NG","61500","11700","161500","811700","57.1341005629674","-5.94304399627235","Tiny hole in bracken 6 m downhill of Allt Aulavaig Cave 4. 2 m long, 1 m high & wide. Through hole in floor similar chamber seen floored with rocks & earth. No way on apparent.","See also Allt Aulavaig [Overview].","Caves of Skye, Ryder, Peter F., 1995, p.56.",,"NG 61500 11700 to 6 digits.
+NG 61340 11724 to 10 digits.",,,"Limestone, Pipe Rock Member - Quartz-arenite","main","Hole","2020-10-18 18:20:20","jcrae"
+"4288","Talla Dearg (Uamh an)","Talla Dearg Uamh an","Invernessshire","South Uist","Red Hall (Cave of the)","Red Hall Cave of the",NULL,NULL,NULL,"NF","76650","36183","76650","836183","57.3012755592979","-7.37102298945879","Cave?",,,,"76650    36183    4",,,,"second","Cave","2018-03-24 10:14:07","alanj"
+"3198","St. Bernard's Cave","St Bernards Cave","City of Edinburgh","Edinburgh",,,NULL,NULL,NULL,"NT","24365","73945","324365","673945","55.95255610879105","-3.212815921321549","Cave (Lost)",,"Bull. GSG 3rd Series Vol.1 No.1 (1989)p.19
+
+Bull. GSG 4th Series Vol.4 No.2 (2012) p.21
+
+Smith, John Turnbull (1907) 'A Sketch of St. Bernard's'","NT 24365 73946","Previously marked at NT 26000 73000 claimed 6 digit accuracy but actually an arbitrary point. New figures from anecdotal position at Randonlph Cliffs.",,,,"second","Cave;Lost","2019-01-24 19:10:58","jcrae"
+"322","Grahamslaw [8]","Grahamslaw 8","Roxburghshire","Ecksford, Kale Water, 1 mile E of A68 beside B6401 to Yetholm",,,"2.3","2.2","100","NT","72300","27100","372300","627100","55.536829141023","-2.44045058440787","Rock Cut Chamber",,"British Caver, 1960. 
+
+Caves of Scotland Bibliography, p. 91-92.  As Grahamslaw [1].
+
+GSG Bulletin 4.4.3., 2010, p. 7. Salvona Jim, Grahamslaw Caves. Reprinted from BC, 1960.",,"72300    27100    6",,,"Red Sandstone","second","ManMade;Archaeo","2018-04-03 17:22:47","jcrae"
+"3474","*Natural Arch","Natural Arch","Argyllshire","Islay, Gamhna, Poll nan, nr Uamh Mhor",,,NULL,NULL,NULL,"NR","29530","47907","129530","647907","55.6491810600886","-6.30074392106389","Sea Cave",,,,"29530    47907    8",,,,"second","SeaCave","2018-03-26 18:03:52","alanj"
+"3621","CH3","CH3","Morayshire","Burghhead/ Cummingston",,,NULL,NULL,NULL,"NJ","12714","69155","312714","869155","57.7036942688924","-3.46630142400051","Sea Cave",,,,"12714    69155    8",,,,"second","SeaCave","2018-03-26 18:14:53","alanj"
+"1565","Luinge (Uamh na)","Luinge Uamh na","Invernessshire","Skye, Idrigill Point",,,NULL,NULL,NULL,"NG","22175","38220","122175","838220","57.34948166210608","-6.620377571478444","Sea Cave","This name signifies ""Cave of the ship"", and is applied to a cave of considerable size which could not be explored without the use of a small boat owing to it being at the foot of a very high cliff on the coast.","OS 10k Backgound Mapping.
+
+Streetmap
+
+Scotland's Places. Mr. A. McNeill Mr. J. McLeod.","122169, 838218","22175    38220    8",,,,"main","SeaCave","2018-05-08 13:57:03","jcrae"
+"4318","* Cave (South Uist)"," Cave South Uist","Invernessshire","South Uist",,,"5.5",NULL,"133","NF","84319","33298","84319","833298","57.2808317030136","-7.24060981429277","Boulder Cave, Souterrain",,,,"84319    33298    10",,,,"main","Cave;Archaeo","2018-03-26 18:20:07","jcrae"
+"3131","Portknockie [Overview]","Portknockie Overview","Banffshire","Portknockie","Portknockie Caves","Portknockie Caves",NULL,NULL,NULL,"NJ","83000","66000","383000","866000","57.6835235799903","-2.28674777850511","Generic",,,,"83000    66000    4",,,,"second","Other","2019-01-29 12:06:30","jcrae"
+"1970","Burghhead Castle Cellar, Great Well Chamber","Burghhead Castle Cellar Great Well Chamber","Morayshire","Nain",,,NULL,NULL,NULL,"NJ","10900","69100","310900","869100","57.7028442598915","-3.49670774645166","Rock Cut Chamber","Previously noted as Aberdeenshire.","CoSBib, p. 35.",,"10900    69100    6",,,,"second","ManMade;Archaeo","2018-03-19 18:14:26","jcrae"
+"5002","Eich Bhric (Uamh an) [Mull]","Eich Bhric Uamh an Mull","Argyll & Bute","Mull, Ross of Mull","Cave of the Speckled Horses, Cave of the Spotted Horse.","Cave of the Speckled Horses Cave of the Spotted Horse",NULL,NULL,NULL,"NM","38396","18375","138396","718375","56.285471577977766","-6.228678301390302","A Cave in the rock north west of the entrance of Slochd nam Bà Sig: [Signification] ""Cave of the Spotted horse"".","Do not confuse with the cave with the same name on Skye.","Argyllshire, Sheet CXVII (includes: Kilfinichen And Kilvickeon), Survey date: 1878   Publication date: 1881.
+
+Pastmap, OS 10k background mapping.
+
+Bing Maps, aerial photography.
+
+Scotland's Places. https://scotlandsplaces.gov.uk/digital-volumes/ordnance-survey-name-books/argyll-os-name-books-1868-1878/argyll-volume-37/146.",,,,,,"second","Cave;SeaCave","2020-09-25 15:31:36","jcrae"
+"3619","CH1","CH1","Morayshire","Burghhead/ Cummingston",,,NULL,NULL,NULL,"NJ","13006","69195","313006","869195","57.7041100877608","-3.46141803589563","Natural Arch",,,,"13006    69195    8",,,,"second","Arch","2018-03-26 18:13:28","alanj"
+"4217","Mopul Cave [2]","Mopul Cave 2","Shetland","Fair Isle, SE of Mopul",,,NULL,NULL,NULL,"HZ","22458","73625","422458","1073625","59.54791618603329","-1.6045515382880728","Fissure cave in steep sea cliff south-east of Mopul.",,"Bing Maps, aerial photography.
+
+Pastmap.",,,,,,"main","Cave;Fissure","2020-09-19 19:29:35","jcrae"
+"3927","Cave near the Ford","Cave near the Ford","Sutherland","Assynt, Traligill","Faisg Air Àth [Uamh], Uamh Faisg Air Àth","Faisg Air Àth Uamh Uamh Faisg Air Àth","3",NULL,NULL,"NC","27430","20910","227430","920910","58.1433072169069","-4.93339986978122","Cave",,,,"27430    20910    6",,,,"second","Cave","2018-03-26 10:25:27","alanj"
+"3627","Rob Roy's Cave [Aberfoyle]","Rob Roys Cave Aberfoyle","Stirlingshire","Aberfoyle, S side of Loch Ard, 500 m W of the Narrows",,,NULL,NULL,NULL,"NN","48063","01390","248063","701390","56.1808393921406","-4.44938410576421","Cave",,,,"48063    01390    6",,,,"second","Cave","2019-08-06 13:35:07","jcrae"
+"1003","Lauder Mine","Lauder Mine","Berwickshire","Lauder",,,NULL,NULL,NULL,"NT","51000","49600","351000","649600","55.7372992485411","-2.78192876537493","Mine","Mine abandoned prior to 1792 so map ref is a bit of a guess.  Some indications of copper mine discovered in the neighbourhood of Lauder. 
+
+Near Lauder, at the head of the district several specimens of copper ore were found. In the parish of Boncle, a copper mine was worked some years ago on the estate of  Lord Douglas.  
+
+Other mentions in various newspapers but ore seems to have been poor or worthless. Various old quarries at Scare Law, Pilmuir and Trabrown Hill. 
+
+OSA mentions some copper mines, but supposedly not sufficiently rich to defray the expense of working. 
+
+About 12 years ago [c. 1800], a copper mine was wrought on a small farm called Hoardweel; the ore is said to have been rich, but the working was given up, owing to the vien having failed. 
+
+See also Elba Mine (near Bonkle Wood and Bonkle Castle).","aditnow. 
+
+GMMoS, p. 36. 
+
+Forsyth, Robert, The Beauties of Scotland.
+
+OSA, vol. 1, p. 73. 
+
+The Scots Magazine July 1796.
+
+The Traveller's Guide Through Scotland, 1812, p. 123.",,"51000    49600    4",,,"Copper","second","Mine;ManMade;Archaeo","2018-02-06 13:54:07","jcrae"
+"3152","Cathaig (Uamh na)","Cathaig Uamh na","Argyllshire","Lismore, Port an Dreadhain, Ailean",,,NULL,NULL,NULL,"NM","82920","40940","182920","740940","56.5102755993181","-5.52962891073271","Cave",,,,"82920    40940    6",,,,"second","Cave","2018-03-26 10:14:37","alanj"
+"3173","Rheuintalen Cave","Rheuintalen Cave","Argyllshire","Jura, N of Loch Tarbert, Rubh an t-Sailein","Ruantallian Cave, Corpach Rubh an t-Sailein","Ruantallian Cave Corpach Rubh an tSailein",NULL,NULL,NULL,"NR","50500","83200","150500","683200","55.9767366786565","-6.00073434137903","Cave
+Canmore ID 98567 & 758179. NR58SW 5 5053 8339. Ruantallain Cave was used as a resting place for corpses which were being taken to Oronsay for burial. J Mercer 1974. [There are a number of caves in the vicinity of Ruantallain (NR 505 832). The only one named on the OS 6"" map, (1900) is 'Corpach Rudh' an t-Sailein (NR 5054 8339) described in the ONB as a ""large cave"", used for storing materials"".] Name Book (Argyll) 1878. According to Mr Mercer, Ruantallain Cave and Corpach Rubh' an t-Sailean are one and the same at NR 5053 8339. It measures 23.0m deep, 10.0m wide and up to 8.0m high. There is no evidence, i.e. crosses, to verify its use as a resting place for corpses (apart from the name); more recently the cave was utilised as a shelter for a horse, with a wall across the entrance and a byre inside. Surveyed at 1:10000. Visited by OS (NKB) 22 May 1978. Very large W-facing cave. It may have been used for storing coffins prior to their being shipped to Colonsay or Iona for burial. The cave is approached by a cart track from the nearby deserted settlement of Ruantailain. It is closed off by a high wall with two wooden gate-posts flanking a broad entrance. A low platform running across the rear of the cave is retained by drystone walling. Incorporated in it is a stone-walled animal stall with a manger. A possible circular kiln is situated in front of the cave entrance. A test pit was dug to bedrock in the northern part of the cave, 11m from the entrance wall and 6.5m from the end of the animal stall. No cultural material was found. Although it was understood to have been submerged for a time in the mid-Holocene, no evidence of this was found in the test pit. Sponsor: NMS. K Hardy 2004.
+Pastmap
+Streetmap",,,,"50500    83200    6
+50530    83280
+50530    83388",,,,"second","Cave","2018-03-26 10:16:40","alanj"
+"3140","*Caves","Caves","Caithness","Wick, The Brough",,,NULL,NULL,NULL,"ND","36600","48300","336600","948300","58.4184330179324","-3.08698064386405","Caves",,,,"36600    48300    6",,,,"second","Cave","2018-03-26 10:10:44","alanj"
+"5078","Burghlee Shaft [1]","Burghlee Shaft 1","MIdlothian","Bilston Glen",,,NULL,NULL,NULL,"NT","27693","64946","327693","664946","55.87223137921833","-3.1571222824027103",,,"Edinburghshire, Sheet 12 (includes: Glencorse; Lasswade; Penicuik), Survey date: 1852   Publication date: 1854.
+
+Pastmap, OS 10k background mapping.",,,,,,"second","Mine;Shaft;ManMade;Lost","2020-10-15 20:52:31","jcrae"
+"3395","Tye's Tunnel","Tye’s Tunnel","East Lothian","Eyemouth, St. Abb's Head",,,NULL,NULL,NULL,"NT","91370","69390","391370","669390","55.9175211259307","-2.13964974823357","Tunnel",,,,"91370    69390    8",,,,"second","Tunnel","2018-03-26 12:46:40","alanj"
+"4235","Skerry Nessan Cave","Skerry Nessan Cave","Shetland","Fair Isle, W Skerry Nessan",,,"25","12","0","HZ","20680","69665","420680","1069665","59.5124486774413","-1.63638128430995","Sea Cave or possibly a natural arch at the base of steep cliffs south-east of Meo Ness. Skerry Nessan is offshore.","Aerial photographs suggest a large natural arch turning 90 degrees with its main entrance facing south-east towards the skerry. A smaller entrance faces south-west.","Pastmap.
+
+Bing Maps, aerial photography.",,"20680    69665    6",,,,"main","Cave;Arch;SeaCave","2020-09-19 23:17:28","jcrae"
+"3811","*Natural Arch","Natural Arch","Shetland","Fetlar, Silda Hevda",,,"35",NULL,"0","HU","66715","92724","466715","1192724","60.6123571503331","-0.78314376810804","Natural Arch",,,,"66715    92724    6
+66725    92754",,,,"second","Arch","2018-03-26 12:55:18","alanj"
+"2588","Monk's Cave","Monk’s Cave","Argyll & Bute","Little Cumbrae",,,NULL,NULL,NULL,"NG","48000","69000","148000","869000","57.6402258489218","-6.22421396415059","Cave",,,,"48000    69000    4",,,,"second","Cave","2018-03-23 16:14:10","alanj"
+"539","Seal Cave [Arbroath]","Seal Cave Arbroath","Angus","Arbroath, Seaton Cliffs, nr The Deil's heid","Doo Cave, Arbroath Cave [16]","Doo Cave Arbroath Cave 16",NULL,NULL,NULL,"NO","67003","41839","367003","741839","56.5673384029159","-2.53855719366769","Sea Cave","Location from unattributed and not to scale plan of caves of Arbroath. Coordinates from Streetmap.","Streetmap.",,"67003    41839    6",,,,"main","Cave;SeaCave","2020-09-22 14:35:50","jcrae"
+"1145","Ossicular Hole","Ossicular Hole","Perthshire","Schiehallion, NW of Trinafour, Meall Dail-chealach",,,"12","2","450","NN","71912","66438","271912","766438","56.77185616986563","-4.097451964764845","A rather squalid entrance, floored with heavy duty polythene bags containing sheep carcasses. Entire entrance 'chamber' filled with substantial heaps of bones & damp, humus-like material probably remains of soft decomposition.  To left 2 voids quickly choked off with earth. Way on to right, down noxious slope into a triangular passage some 3 m long. End pinched out by boulders, but water heard below & to left. Digging not attractive.","From Calvine on A9, follow B847 to Trinafour. Turn right & drive N up un-designated tarmac road (General Wade's Military Road) past Loch Errochty & substantial dam to W. After steep Z-bends road levels and small lake seen adjacent to left side of road. This is Maud Loch, created by an earth dam, where cars may be parked off the road. Alternatively (for slightly faster approach), proceed N on A9 until Drumochter dual carriageway. Turn for Trinafour signposted almost at once & loch lies some four miles down road. By walking across dam & skirting small hillock beyond, outcrops of limestone soon seen. Access from this point made easier by rough vehicular track. Walk NW until, about ½ km onwards, single wooden post stands as marker. Just beyond is shallow valley running W & about 80 m up this a stream sink (more limestone may be found beyond immediate hillsides). 3rd shake from sink contains open entrance.
+
+Nov 2008 - length update. 
+
+Briefly revisited on weekend of GSG Annual Dinner 2017. No change at entrance (and no underground investigation). Possible that this the upstream end of a more recent find called 'Little Rock'.","GSG Bul. Series 4, vol., 3 , no. 5, pp. 23, 24 (S). Jeffreys, A., 2008, Caves at Trinafour.
+GSG Bull. Series 4 Vol.4 No.1 (2009) p.10",,"NN 71500 67100. Accuracy 6. Description matches but coordinates are dubious. Actual position probably some 200 m south. Corrected position from GPs 22 June 2018.",,,"Limestone, Schist","main","Cave","2019-02-28 19:35:19","jcrae"
+"4753","* Cave (Jura)"," Cave Jura","Argyllshire","Jura, Ardlussa, Traigh an Airgid",,,NULL,NULL,NULL,"NR","65228","88062","165228","688062","56.027753514783825","-5.769502870010239",,,"Pastmap",,,,,,"main","Cave","2019-09-19 16:02:54","jcrae"
+"4019","*Caves","Caves","Wester Ross","Outer Hebrides, Lewis, NW of Tolsta Head, Tealair",,,NULL,NULL,NULL,"NB","55347","47441","155347","947441","58.3469724402802","-6.18275090713683","Sea Caves",,,,"55347    47441    6",,,,"second","SeaCave","2018-03-26 09:50:44","alanj"
+"3178","Rosehall Cave","Rosehall Cave","Ross & Cromarty","Strath Oykel, Strathcarron, n of Meall Dheirigh",,,NULL,NULL,NULL,"NH","48000","96000","248000","896000","57.9273527915605","-4.56829107871113","Cave",,,,"48000    96000    4",,,,"second","Cave","2018-03-26 10:15:32","alanj"
+"375","Birkhill no 3 Fire Clay Mine","Birkhill no 3 Fire Clay Mine","West Lothian","NW of Linlithgow, River Avon, Birkhill",,,"2000",NULL,"20","NS","96400","78920","296400","678920","55.9920159307955","-3.66238727427577","Mine",,"GSG Bulletin 2.5.1. Dec/1986, p. 26.",,"96400    78920    8",,,"Fire Clay","second","Mine;ManMade;Archaeo","2018-04-05 18:24:34","jcrae"
+"4774","* Cave (Leirinbeg) [2]"," Cave Leirinbeg 2","Sutherland","Leirinbeg",,,"2","4","5","NC","41888","67850","241888","967850","58.569827949841425","-4.720327283260628","Tight slot with water breaking into the entrance even at low tide.","Visited by John Crae, 26/10/2019. Needs rope and harness and someone braver than me.",,,,,,,"second","Cave;SeaCave","2019-10-29 12:44:43","jcrae"
+"3284","Yell [Overview]","Yell Overview","Shetland","Yell",,,NULL,NULL,NULL,"HU","49650","90100","449650","1190100","60.5912727955271","-1.09547786106093","Generic. Relating to the caves and natural arches on the island of Yell, one of the Shetland Islands.",,,,"49650    90100    4",,,"Moine Schist","second",,"2019-08-05 14:49:29","jcrae"
+"1968","Bullionfield Souterrrain","Bullionfield Souterrrain","Angus","Liff and Benvie",,,NULL,NULL,NULL,"NO","34300","30500","334300","730500","56.4620433228165","-3.06777658898044","Souterrain",,"CoSBib, p. 35.",,"34300    30500    6",,,,"second","ManMade;Archaeo","2018-03-19 18:13:33","jcrae"
+"1774","Abhainn Ghil (Uamh)","Abhainn Ghil Uamh","Argyllshire","Islay, Lower Killean","Uamh Abhainn Ghil, River Valley (Cave of the), Cave of the River Valley","Uamh Abhainn Ghil River Valley Cave of the Cave of the River Valley","6",NULL,"5","NR","27500","43500","127500","643500","55.6085627664443","-6.32854559442437","Cave",,"GSG Bulletin 2.3.3. (1981), pp. 51-58.",,"27500    43500    6",,,,"main","Cave","2018-03-08 17:54:12","jcrae"
+"4512","Pot Hole","Pot Hole","Argyll","Coie Mulrooney",,,NULL,"7","545","NN","032","512","203200","751200","56.6112259859057","-5.208434614196582","Shaft near Coire Mulrooney",,"Univ. Coll. London SS Expedition to Scotland 1972, p.32",,,,,"Metamorphosed limestone","main","Shaft","2018-04-10 09:59:42","alanj"
+"2307","Golspie [Overview]","Golspie Overview","Sutherland","Golspie, Cagar Feosaig","Golspie Fissure Caves, Gillander's Cave  [1 & 2], Uaigh Mhic Ghil Anndreis [1 & 2], Mhic Ghil Anndreis (Uaigh) [1 & 2]","Golspie Fissure Caves Gillanders Cave  1  2 Uaigh Mhic Ghil Anndreis 1  2 Mhic Ghil Anndreis Uaigh 1  2",NULL,NULL,NULL,"NC","83700","03100","283700","903100","58.0018367069175","-3.96943725264182","2 small fissure caves.","See also Gillander's cave 1 & 2.
+
+Investigated 1965 by Les Henderson & Alan Jeffries.
+
+Lengths shown in entries for individual caves.","Caves of Scotland Bibliography, pp. 88 & 90.
+
+GSG Bulletin 2. 3.1., pp. 27-28. 1 of 2 small fissure caves, Uaigh Mhic Ghil Anndreis 1 & 2. 
+
+Royal Commission of Ancient and Historic Monuments in Scotland.  Inventory of Monuments in the county of Sutherland 1911.  103, 303
+
+[Old of 1st] Statistical Account 1791-99, pp. 21, 225.",,"83700    03100    6",,,"Lower Oolitic Sandstone","second",,"2019-01-29 11:35:34","jcrae"
+"621","Creag nan Uamh Bone Cave [6]","Creag nan Uamh Bone Cave 6","Sutherland","Assynt, Alt Nan Uamh",,,NULL,NULL,"305","NC","26894","16973","226894","916973","58.1077836289115","-4.93957950462104","Cave","See also Creag nan Uamh Bone Caves.","Caves of Assynt, p. 44.",,"26894    16973    10",,,"Limestone","main","Cave;Archaeo;SSSI;SAM","2018-01-29 17:08:21","jcrae"
+"1586","Kettle's Cave","Kettles Cave","Invernessshire","North Uist, Tigharry","Kettle Spout (The), Slochd a' Choire, Spouting Kettle, Kettle Pit","Kettle Spout The Slochd a Choire Spouting Kettle Kettle Pit",NULL,NULL,NULL,"NF","70540","72768","70540","872768","57.62402646947445","-7.521202592657292","Sea Cave and Natural Arch in the cliffs between the beaches at Hoglan and Traigh s'Tir.
+
+
+The blow-hole of Kettle Spout as it is known locally consists of a narrow arch bridging a deep chasm over the Atlantic waves. In very stormy weather fountains of water gush forth from this orifice. The approach to the blow hole should be treated with caution, the rocks are sloping and slippery, and a fall from these cliffs could prove fatal.
+In the months of May and June beware also of an electric fence erected to contain livestock in the area (NF 705 727). [Mike Townsend]
+
+The website for Kettle Cottage at Holgan Bay mentions the cottage [Taigh a' Choire (Kettle House)] takes its name from the nearby natural arch and blow hole, the ""Spouting Kettle"" or ""Slochd a Choire"" in Gaelic. Atlantic storms force huge waves into the cave causing the sea to spout into the air through the blow hole, hence the name.","Slochd na Choire - Signifies ""The Kettle pit"" and is applied to a large hole in the rock of considerable depth. It is above high water mark and the sea has access to it at high water. [addendum ""Situated in the rock north of ""Garry Gaal"".] [OS Name Book, Scotland's Places]
+
+Tigharry or Tigh a' Ghearraidh is the house on the rock. Past the drowned village in Loch Hosta in the cliffs across the road is a spouting cave.","OS 6"" map Invernessshire Sheet XXXIII (includes: North Uist)
+Survey date: 1876   Publication date: 1881 
+Lat/Long 57°36′N 7°31′W [I read this as 57°37′30""N 7°31′15""W] / 57.6°N 7.517°W. [NGR NF 70540,872768]
+
+OS 25"" map Inverness-shire - Hebrides XXXIII.3 (North Uist)
+Survey date: 1878   Publication date: 1879
+shows same location.
+
+Haswell-Smith, Scottish Islands, 7.15  [according to my copy of Scottish Islands this should be 7.16 (p.199), Tigharry or Tigh a' Ghearraidh is on the west coast of North Uist]. Coordinates for chambered cairns at South Clettraval given as NF 749 714 [this is some distance from Tigharry].
+
+Wikipedia
+
+Scotlandsplaces
+
+
+Streetmap NF 070536,872772
+
+http://books.google.co.uk/books?id=RQLQh_mIfKIC&pg=PA74&lpg=PA74&dq=%22kettle+Spout%22+Uist&source=bl&ots=raVAKUl7eE&sig=ycUo5AbZMc_jiQ6Bmt9H4YgoaYA&hl=en&sa=X&ei=T2Q0U-PbD8G30QWOkIDAAg&ved=0CCwQ6AEwAA#v=onepage&q=%22kettle%20Spout%22%20Uist&f=false, Mike Townsend, Walking on Uist and Barra, pp. 74-75. This relatively short walk visits an impressive coastal feature eroded from the cliffs of North Uist. 
+
+Information from Ben [?].","From Ben - Body: The grid ref for this entry is incorrect. It is at NF70257270. It's not far away, but as the area given by you is very rough rocky shoreline, those looking for it will be put at risk by being in the wrong place. [This seems to be west of Geo a' Choip while Kettle's Cave is East of Geo Mhail]","Previously at NF 70787    72747 to 6 digits.",,,,"main","Cave;Arch;SeaCave","2020-09-04 22:17:54","jcrae"
+"711","Dun a' Chail (Uamh)","Dun a Chail Uamh","Argyllshire","Islay, Lagg an Bay, near Kintra,Dun a' Chail","Uamh Dun a' Chail, Dun a' Chail Cave, Dun a' Chad (Uamh), Dun a' Chad Cave","Uamh Dun a Chail Dun a Chail Cave Dun a Chad Uamh Dun a Chad Cave",NULL,NULL,NULL,"NR","31500","47980","131500","647980","55.6509271734926","-6.26959946737315","Cave, inaccessible.","Is this a reference to Chads (cartoon figures of a head peering over a wall)? Or is it a proper Gaelic name?
+ 
+Dun a Chad appears to be a misprint. The cave seems to be associated with the nearby dun or fort called Dun a' Chail.
+
+If Gaelic, it should have be Dun a' Chad. No translation found for chad but it could have been a corrupt spelling. Dun a' Chail (in ICP 2002 and shown on Streetmap) is a more likely spelling.","Discovery & Excavation, New Series Volume 3, 2002, p. 17. 
+
+Islay Caves Project, 2002.
+
+Lamont, W D. (1962) Kildalton area', Discovery Excav Scot, 1962. Page(s): 20
+
+RCAHMS. (1984a) The Royal Commission on the Ancient and Historical Monuments of Scotland. Argyll: an inventory of the monuments volume 5: Islay, Jura, Colonsay and Oronsay. Edinburgh. Page(s): 109-10, No.197 RCAHMS Shelf Number: A.1.1.INV/23",,"31500    47980    8",,,,"main","Cave","2020-10-05 11:16:16","jcrae"
+"134","Devil's Footsteps","Devils Footsteps","Wigtownshire","Burrow Head","Devil's Bridge?","Devils Bridge",NULL,NULL,NULL,"NX","46050","34200","246050","534200","54.67926172631649","-4.389320914385465","Not sure if there is a cave at this location. The name Devil's Bridge actually applies not to a cave but to a natural arch just offshore. The Devil's Footsteps are hollows in the flat rock supposed to resemble cloven hoofs.","Galloway ghost story. 'There is one story in particular of this class which Mr. Harper might safely have put in, for there is ""monumental evidence"" of its truth. On a flat rock beneath Burrow Head the cloven footprints of the Devil are plainly to be seen, and beside them are the footprints of a man; and stretching out into the sea from the flat rock are two or three rocky arches of a bridge. It was here that the Devil and Michael Scott danced together to celebrate the beginning of a bridge which the Devil was ging to build for Michael Scott across to the Isle of Man; but they quarrelled, and the bridge never got beyond the third arch. Mr. Harper makes no mention of the ""Devil's Footsteps"" in his account of the Burrow Head. It would surely have been good for the traveller, conducted by Mr. Harper to the edge of the great cliff with which Scotland ends, to know , or of Mr. Harper, in spite of the ""monumental evidence"" objects to the word - to believe, at least for a little while, that the Great Magician was here too, whose ""words cleft Eildon hills in three,"" who Dante saw in Hwll: ""Michele Scotto ... che veramente Delle magiche frode seppe il giuoco.""
+
+About 25 Chains S.W [South West] by W [West] of the Sheriff.
+This name applies to a flat rock at the bottom of a precipice & near the high water mark having on its surface several impressions resembling the prints of a persons left foot and are of different sizes some of these have been quarried & sent to London as a natural curiosity. [Scotland's Places]","6"" OS 1909, Sheet 35, Wigtownshire SE, 54° 40' 13""N, 4° 23' 48.8""W.  
+
+6"" OS 1909, Sheet 35 Wigtownshire, SE 54° 40' 45""N, 4° 23' 16""W. 
+
+OS Auto Lat/Long conversion to NGR.
+
+Old Statistical Account vol. 4. p. 53.
+
+https://scotlandsplaces.gov.uk/digital-volumes/ordnance-survey-name-books/wigtownshire-os-name-books-1845-1849/wigtownshire-volume-85/64. Scotland's Places, George McKie, David McMonies, George McHaffie Esqr.
+
+The Academy (Oct 31, 1896), p. 325. Review of Rambles in Galloway by Malcolm McL. Harper.",,"Original coordinates NX 45530 33220 place this off the coast. Alternative Locations NX [46050] [34200] and NX [45580]  [34100]",,,"Ross Formation - Wacke","main","Cave","2020-10-14 22:58:56","jcrae"
+"4515","Reraig Caves","Reraig Caves","Ross and Cromarty","Balmacara Bay",,,NULL,NULL,NULL,"NG","80827","81227","180827","881227","57.76698434492302","-5.686687609830727",,,"Bull. GSG 2nd Series Vol.2 No.3 (1978) p8",,"Several abandoned sea caves, partly destroyed by road widening",,,,"main","SeaCave","2018-04-15 12:47:22","alanj"
+"852","Gravel Scoop Cave","Gravel Scoop Cave","Wester Ross","Kishorn, Coille Dubh, W of Allt a' Chnoic Ghuirm, N of Cnoc Gorm",,,NULL,"5","330","NG","87752","44875","187752","844875","57.4444169048332","-5.538668196004","Cave",,"Caves of Applecross & Kishorn, p. 32.",,"87752    44875    10
+Mar 2008 - updated position.",,,"Limestone","main","Cave","2018-02-02 19:08:31","jcrae"
+"2123","Cromarty Sutors [Overview]","Cromarty Sutors Overview","Ross & Cromarty","Cromarty","Sutters of Cromartie (Cave of), Eathie Burn Caves, Cromarty Sutors (Caves of)","Sutters of Cromartie Cave of Eathie Burn Caves Cromarty Sutors Caves of",NULL,NULL,NULL,"NH","80500","67400","280500","867400","57.6805278415067","-4.00564517088016","Generic",,"Caves of Scotland Bibliography, pp. 57-58.
+
+Baxter 525
+
+Brown, P Hume 1893 Scotland before 1700 from contemporary documents  368  David Douglas, Edinburgh  76, 145
+
+Bond, Miss, ND Letters of a Village Governess, illus
+
+Kempe 407 Doocot or Pigeon (sometimes Dowcate ) Cave.  150 feet long along a fault line and accessible only by boat - and then with some effort.  It has the remains of a wall built by some entrepreneur to guard for himself the - probably wild - birds.
+
+Marshal;, Elizabeth 1973 [revised ed pub 1986]  The Black Isle a portrait of the past.  42-43
+
+Miller 1835 48 Cave at Sutors, 69 Morial's Den, 81-82 Witch's Hole, 172-127 cave, 202 Smugglers Cave, 280, 283, 314-324, Dropping Cave, 325 Fiddlers Well.
+
+Miller, Hugh 1877 The Old Red Sandstone... 385 & 16, illus.  William P Nimmo, London.  Cave 131 footnote.
+
+Miller, Hugh 1891 My Schools and Schoolmasters or the Story of my Education.  562.  William P Nimmo, Hay & Mitchell, Edinburgh.  71-84
+
+Muirhead 1947 395 Eathie Burn Caves, best seen from the sea.
+
+Pennant 1774  183-4  Sutters of Cromartie
+
+Scots Mag 97 (6) Sept 1972 590-592.Dropping Cave and MacFarquhar.
+
+Southey  121
+
+St John, Charles 1980 [reprint, 1st ed 1919] Wild Sport & Natural History of the Highlands.  James Thin, The Mercat Press, Edinburgh.  196-198
+
+St John, Charles 1982 A Scottish Naturalist / The Sketches and Notes of Charles St John 1809-1856.  [compiled from the 3 published books by St John + unpublished illustrations].  Andre Deutsch, London.  107-109
+
+Statistical Account 1791-99    12 246  ""Cromarty      Ross and Cromarty, Cromarty.  A large rock arch - M'Farquhar's Bed, natural arch which allows the sea to pass in and out.  Nearby is a cave close by the sea, with a man-sized entrance.  Inside there are numerous stalactites.  ""The cave is quite accessible and is truly a curious phenomenon"".
+
+Willis, Douglas P, 1989 Discovering The Black Isle.  John Donald Publishers Ltd, Edinburgh.  153,",,"80500    67400    6",,,,"second",,"2019-01-29 11:27:40","jcrae"
+"3354","Tantallon Cave","Tantallon Cave","East Lothian","North Berwick",,,NULL,NULL,NULL,"NT","60000","84700","360000","684700","56.05347579205","-2.64381106400231","Sea Cave",,,,"60000    84700    6",,,,"second","SeaCave","2018-03-26 12:41:35","alanj"
+"3362","*Caves","Caves","Argyllshire","Texa, near Islay",,,NULL,NULL,NULL,"NR","39645","43836","139645","643836","55.6182205536127","-6.13659095081805","Caves",,,,"39645    43836    8",,,,"second","Cave","2018-03-26 12:42:38","alanj"
+"2823","*Natural Arch","Natural Arch","Orkney","The Gloup, Mucklehouse, Brims, Hoy",,,NULL,NULL,NULL,"HY","28315","88335","328315","1088335","59.6744103996886","-3.27449678708851","Natural Arch",,,,"28315    88335    6",,,,"second","Arch","2018-03-25 09:06:49","alanj"
+"2968","Port Ceann an t-Salainn North Boulder Cave","Port Ceann an tSalainn North Boulder Cave","Argyllshire","Knapdale",,,NULL,NULL,NULL,"NR","73500","75500","173500","675500","55.9190957456976","-5.62648167395535","Boulder Cave",,,,"73500    75500    8",,,,"second","Cave","2018-03-26 09:40:34","alanj"
+"3085","Castle Cave","Castle Cave","Aberdeenshire, Banffshire","Portknockie, Tronach Head",,,NULL,NULL,NULL,"NJ","47740","68650","347740","868650","57.7046019767857","-2.87856968087185","Sea Cave",,,,"47740    68650    8",,,,"second","SeaCave","2018-03-26 10:07:11","alanj"
+"703","An Leth-chreag  Natural Arch","An Lethchreag  Natural Arch","Ross & Cromarty","Gairloch/ Camas an Fhraoich",,,NULL,NULL,NULL,"NG","75404","91857","175404","891857","57.859573281021454","-5.787630883324557","Natural Arch between Camas an Fhraoich and Canmas Mor.",,"Ross-shire & Cromartyshire (Mainland), Sheet XIXA (includes: Gairloch)
+
+Streetmap.
+
+Pastmap OS 10k background mapping.",,"NG 75383 91865 to 6 digits.
+Amended coordinates from Pastmap.",,,,"main","Cave;Arch;SeaCave","2020-10-04 21:13:17","jcrae"
+"3774","Netherton Mine","Netherton Mine","Lanarkshire","Auchenheath","Netherton Lime Works Pit No,. 3 , Auchenheath Tile Works Level, Nethertown","Netherton Lime Works Pit No 3  Auchenheath Tile Works Level Nethertown",NULL,NULL,NULL,"NS","81125","43112","281125","643112","55.6669167505079","-3.89144208752361","Quarry, Mine",,,,"81125    43112    6",,,"Limestone","second","Mine;Quarry;ManMade;Archaeo","2018-03-26 16:51:02","jcrae"
+"4969","Jivy Geo Cave [2]","Jivy Geo Cave 2","Shetland","Fair Isle, Jivy Geo",,,NULL,NULL,NULL,"HZ","22295","73578","422295","1073578","59.54750282495902","-1.6074393639848552","Sea Cave at the base of steep cliffs, north of Jivy Geo.",,"Bing Maps, aerial photography.
+
+Pastmap.",,,,,,"main","Cave;SeaCave","2020-09-19 19:19:49","jcrae"
+"4398","Borough Head [Overview]","Borough Head Overview","Wigtownshire","Whithorn Parish, Luce Bay, Borough Head, Burrow Head","Burrow Head Caves","Burrow Head Caves",NULL,NULL,NULL,"NX","45800","34050","245800","534050","54.67783841664399","-4.3931154558252485","Generic, see also Burrow Head Caves.","Do not confuse with Burghhead Caves, Morayshire.","Pastmap.",,,,,,"second","Other","2020-09-27 14:06:49","jcrae"
+"2703","English Hole","English Hole","Orkney","Westray, south of Hass of the Stack Lighthouse",,,NULL,NULL,NULL,"HY","39240","49630","339240","1049630","59.3286535979242","-3.06951939045179","Sea Cave",,,,"39240    49630    8",,,,"second","SeaCave","2018-03-24 13:31:04","alanj"
+"2320","Glendrian Cave","Glendrian Cave","Invernessshire","Ardnamurchan",,,NULL,NULL,NULL,"NM","46300","70800","146300","770800","56.759521482554","-6.15249350864228","Cave",,"Bull. GSG 2nd Series Vol.1 No.5 (1977)p.23",,"46300    70800    6",,,,"second","Cave","2018-04-10 10:07:50","alanj"
+"2477","Kinnaird Castle Passage","Kinnaird Castle Passage","Perthshire","Ashintully",,,NULL,NULL,NULL,"NO","09000","71700","309000","771700","56.8278391202779","-3.49275874829807","Tunnel",,,,"09000    71700    6",,,,"second","Tunnel","2018-03-23 12:18:07","alanj"
+"4639","Preaching Cave","Preaching Cave","North Ayrshire","Arran",,,NULL,NULL,NULL,"NR","89976","26581","189976","626581","55.48777759638269","-5.32580608061529","A raised beach cave south of Kilpatrick Point on the west coast of Arran.","See also Uamh Nic-ille Ghuirm.","West of Scotland Archaeology Service (WoSAS) Pin:  54638.
+
+Cressey, M. & Badger, S., 'Coastal Zone Assessment Survey: Kintyre & Isle of Arran', CFA Archaeology Ltd, 2004.
+
+Canmore ID 39229. References to Preaching Cave in footnotes.",,,,,,"main","Cave","2018-06-05 18:22:24","jcrae"
+"1988","Camas na h‑Uamha","Camas na h‑Uamha","Invernessshire","Skye, S of Dunvegan, Loch Varkasaig, Idrigill Point",,,NULL,NULL,NULL,"NG","25300","37600","125300","837600","57.3458234736565","-6.56792396576289","Caves",,"CoSBib, p. 38. Coordinates only.
+
+Landranger 23.",,"25300    37600    6",,,,"main","Cave","2018-03-19 18:41:58","jcrae"
+"2855","Creise (Sloc na)","Creise Sloc na","Argyllshire","Tiree, NE of Traigh Bail'-a-mhuiluin","Sloc na Creise","Sloc na Creise",NULL,NULL,NULL,"NL","95860","48260","95860","748260","56.5276355804689","-6.94799346058732","Sea Cave?",,,,"95860    48260    6",,,,"second","SeaCave","2018-03-25 09:09:26","alanj"
+"1251","Root Tunnel","Root Tunnel","Argyllshire","Appin, Coire Sheilach, Allt Coire Sheileach",,,"5",NULL,"335","NN","03000","49600","203000","749600","56.5967904954473","-5.21046891087913","Cave","Coordinates match Allt Coire Sheileach Cave 1 [0233].","AppCGS, p. 11.",,"03000    49600    6",,,"Limestone","main","Cave","2018-02-12 12:46:51","jcrae"
+"309","Grahamslaw [1]","Grahamslaw 1","Roxburghshire","Ecksford, Kale Water, 1 mile E of A68 beside B6401 to Yetholm",,,"6","2.6","100","NT","72300","27100","372300","627100","55.536829141023","-2.44045058440787","Rock Cut Chamber","Jim Salvona's notes claim this chamber was obviously excavated [archaeologically investigated]  by experienced party within last two years [c. 1958], 5' deep trench cut in floor.","British Caver, 1960. 
+
+Caves of Scotland Bibliography, p. 91-92. 
+
+Coles, F R 1911 Notice of rock-hewn caves in the valley of the Esk and other parts of Scotland.  PSAS 45 299-300.
+
+Douglas, G, 1899 County Histories of Scotland. 
+
+Forsyth, J, 1961 Grahamslaw Caves.  Scot Mag NS 75 (6) Sept.  485-488, illus .
+
+Murray, (1894) Handbook for Scotland, reprinted 1971 David & Charles, Newton Abbot. 81.
+
+Oldham, Tony 2007 The Remaining Caves of Scotland.  p.  25.
+
+Somervill, Dr  1791  Account of the Parish of Jedburgh. 
+
+Veitch's Border History 1 29. 
+
+GSG Bull.etin 4.4.3., p. 7. Salvona Jim, Grahamslaw Caves. Reprinted from BC, 1960. 6' 6"" wide.",,"72300    27100    6",,,"Red Sandstone","second","ManMade;Archaeo","2018-04-03 17:00:18","jcrae"
+"4090","*Cave","Cave","Argyllshire","Kintyre, Muasdale, Slavonga",,,NULL,NULL,NULL,"NR","67400","38900","167400","638900","55.5880224006848","-5.69270123552574",,,,,"67400    38900    6",,,,"second",,"2018-03-25 09:24:34","alanj"
+"5006","Cousland Limestone Mine (Upper Quarry) [2]","Cousland Limestone Mine Upper Quarry 2","Midlothian","Cousland",,,NULL,NULL,NULL,"NT","37519","68282","337519","668282","55.903576291808214","-3.0008917290436843","Second upper quarry entrance to the lower section of Cousland Limestone Mine. 
+
+Small tight squeeze at the top of a run in. Largely blocked by surface debris (cut tree branches, etc.).","See also Cousland Limestone Mine and Cousland Limestone Mine (Upper Quarry) [1].",,,,,,,"second","Mine;Archaeo","2020-09-26 13:21:36","jcrae"
+"958","Kilbride [II]","Kilbride II","Invernessshire","Skye, Strath Suardal, Kilbride/ N of Loch Cill Chriosd","North Britain Burra Mine, Burra Mine, Anworth Mine","North Britain Burra Mine Burra Mine Anworth Mine",NULL,NULL,NULL,"NG","59200","20400","159200","820400","57.2108641812961","-5.98935228810249","Mine?","Sources suggest North Britain  Burra Mine is in SW Australia. Why it is associated with this site on Skye is as yet unknown.","aditnow. 
+
+GMMoS, p. 33.",,"59200    20400    6",,,"Iron","second","Mine;ManMade;Archaeo","2018-02-05 16:51:27","jcrae"
+"835","Southpark Rockshelter [2]","Southpark Rockshelter 2","Argyllshire","Inchmarnock","Site 9","Site 9",NULL,NULL,NULL,"NS","02020","58333","202020","658333","55.77767155613545","-5.1583602778577005","Cave, Rock Shelter
+
+Site 9. Rock shelter, roughly 7.5m across and 5.5m wide, located in old cliff face above raised beach near SW corner of island. Trial trench evaluation across mouth of cave revealed a series of occupation deposits; environmental remains yielded a large quantities of marine shell, bone, charcoal and small quantity of charred hazel nutshells. Basal deposit in cave radiocarbon-dated to the period cal 346-4 BC. [Lowe 2008]
+
+This rock-shelter is as previously described; another shelter (NS05NW 42) is situated some 180m to the E. [Visited by RCAHMS (GFG, MM, GB) 3 June 2009.]
+
+Inchmarnock to west of Bute at northern end of Sound of Bute. Around 3.5 kilometres (2.2 mi) long and rises to height of 60 metres (197 ft). Island mainly single ridge running north to south. Partially wooded and has sea caves at  north and  south and two tiny lochans inland.","Primary deposits no older than Iron Age. Sediments dated to 346-4 BC.","https://en.wikipedia.org/wiki/Inchmarnock.
+
+Geddes and Hale, G F and A G C. (2010) RCAHMS: The Archaeological Landscape of Bute. Edinburgh.
+
+Lowe, Chris (2008), Inchmarnock. An Early Historic Island and its archaeological landscape, Society of Antiquaries of Scotland, pp. 13 (site map), 15, 58-59, 62-63.
+
+Canmore ID  300171.",,"NS 02020 58340 to 8 digits.
+Amended coordinates from Pastmap.",,,,"main","Cave;Archaeo","2020-10-05 17:11:55","jcrae"
+"1913","Barr nam Fuaram South Rock Shelter [2]","Barr nam Fuaram South Rock Shelter 2","Argyllshire","Knapdale, N of Tayvallich","Barr nam Fuaram South Rockshelter [2]","Barr nam Fuaram South Rockshelter 2",NULL,NULL,"80","NR","74220","88850","174220","688850","56.0391403865839","-5.62618267431232","A small rock-shelter, north-westerly aspect, 2.8 m by 2 m with a maximum height of 1 m formed in massive screes along the west face of Barr nam Fuaran.","Traces of an arc of walling just beyond the drip line and a hearth centrally placed 0.8 m from the rear wall. [April 1987]","Caves of Scotland Bibliography, p. 26.
+
+Tolan-Smith, Christopher, The Caves of Mid-Argyll, p. 19.",,"74220    88850    8",,,,"main","Cave;Archaeo","2018-03-16 18:46:27","jcrae"
+"1928","Benachully [Overview]","Benachully Overview","Perthshire","Forest of Clunie, S of Loch Benachally",,,NULL,NULL,NULL,"NO","07000","49000","307000","749000","56.6235867946339","-3.51728270858136","Generic","Lengths are given in entries for individual caves.","Caves of Scotland Bibliography, p. 28.
+
+Ordnance Gazetteer of Scotland, p. 141.",,"07000    49000    6",,,,"second","Other","2019-01-29 11:05:29","jcrae"
+"4064","Pythagoras Cave","Pythagoras Cave","Invernessshire","Skye, Broadford, Torrin Road",,,NULL,NULL,NULL,"NG","63388","22267","163388","822267","57.2297773847297","-5.92196185237612","Cave",,"Bull. GSG 5th Series Vol.1 No.2 (2014) p.38",,"63388    22267    10",,,,"second","Cave","2018-05-29 11:05:57","alanj"
+"676","Sron Eilean an Air Natural Arches","Sron Eilean an Air Natural Arches","Ross & Cromarty","Gairloch, Sron Eilean an Air",,,"25",NULL,NULL,"NG","73583","88934","173583","888934","57.832458512281576","-5.815474217538996","Natural Arches",,"Streetmap.
+
+Pastmap, OS 10k background mapping.",,"NG 73607 88950 to 6 digits.
+NG 73583 88934",,,,"main","Arch;SeaCave","2020-10-02 19:07:02","jcrae"
+"4068","* Sinkhole (Torrin Road)"," Sinkhole Torrin Road","Invernessshire","Skye, Broadford, Torrin Road",,,NULL,NULL,NULL,"NG","63522","22372","163522","822372","57.2307875930305","-5.91984755434965","Sinkhole",,,,"63522    22372    10",,,,"second","Sink","2019-01-29 16:21:24","jcrae"
+"850","Cross Cave (W)","Cross Cave W","Moray, (Banffshire)","Portknockie, immediately W of Harbour",,,"26","5.3","4.5","NJ","48582","68530","348582","868530","57.70362149264324","-2.8644173749060466","Cross Cave is actually three caves - each entrance is in open air.
+
+Cross Cave (W) is a supratidal cave which runs initially W, and has a gently upsloping pebble floor. The effect is to reduce width and headroom until at L=23, one can crawl no further. The laser disto showed another 3m beyond this and the rock floor may well be much lower. Used by doves.  W = 5.4 m.",,"OS current & 1st Ed.
+
+One of three caves mentioned in the New Statistical Accounts for Rathven Parish, Banffshire.","Reuse of this site ID as the previous entry was for a duplicate of The Rotten's Cave.","48805    68730    6",,,"Cullen Quartzite Formation (Dalradian metamorphic)","main","SeaCave","2020-08-13 20:06:55","nigelf"
+"1010","Leicht Mine","Leicht Mine","Banffshire","N of Bridge of Leachd, above Well of the Lecht, W of Tom na Broighleig","Leachd Mine, Lecht Mine","Leachd Mine Lecht Mine",NULL,NULL,NULL,"NJ","23700","15900","323700","815900","57.2274476233141","-3.26537519664314","Mine. North of Well of Lecht on the stream running south from Coire Buidhe.  These appear to have been open cut workings of little interest to cavers. 3 pits at mine, other excavations, dumped material, building foundations, mill lead remains & recently renovated mill building. Pit 3 overgrown.","Mining 1st took place at Lecht in late 18th century, when York Mining Company established workings on land forfeited the government following 1745 Jacobite Rebellion. Both ironstone & manganese ore mined at site & transported to Culnakyle, near Nethybridge, for smelting. Most prominent feature of mining landscape at Lecht is 2-storeyed, rubble-built building with large arched doorway, restored & re-roofed with local slate in 1980s. Dates from second, post-1841 phase of activity at mine, & probably served as crushing mill, powered by water wheel measuring almost 8m in diameter set at one of its gable walls. Other remains include mill lade, dumps of waste material, & mine workings which consist of vertical shafts & adits driven at shallow angle into hillside. When production reached peak during 1840s, 63 people employed at mine. By 1847, however, cheap imports of manganese from Russia made it unprofitable & mine closed. Ironstone Mine (disused) [NAT]. 
+
+Ironstone Mine, Lecht. 18th to 19th century. Principal remains tall 2-storey rubble building with segmental-arched openings; may have housed crushing machinery. High-level lade, & waterwheel about 42ins (1.06m) wide by 24ft (7.32m) diameter on one gable; kingpost roof well preserved.","aditnow. 
+
+GMMoS, p. 37. 
+
+Jim Salvona's Log Book 1984-1994, p. 44. 
+
+6"" OS 1869 Banffshire Sheet 44. 
+
+6"" OS 1902 Banffshire Sheet 44. 
+
+Canmore ID 74949.
+
+OS 1:10,000 map, 1972. 
+
+Hume, J R (1977a) The industrial archaeology of Scotland, 2, the Highlands and Islands London p.: 182 pl. 26 Held at RCAHMS J.4.11.HUM. 
+
+Nicholson, K (c 1980) Moray Museums Information Sheet, No.8 The Geology anf History of the Lecht Iron-Manganese Mine, Tomintoul, Banffshire Held at RCAHMS D.5.43.NIC.P.
+
+McKean, C (1987a) The district of Moray: an illustrated architectural guide, Edinburgh. Page(s): 168 pl. p. 168 Held at RCAHMS D.5.MOR.",,"23700    15900    6
+23800    15900",,,"Iron & Manganese","second","Mine;ManMade;Archaeo","2018-02-06 14:14:17","jcrae"
+"1972","Burntisland [Overview]","Burntisland Overview","Fife","Burntisland",,,NULL,NULL,NULL,"NT","23000","85000","323000","685000","56.051641480356","-3.23784102235873","Generic","Lengths are given in entries for individual caves.","Caves of Scotland Bibliography, p. 35.
+
+New Statistical Account 1845, vol. 9. p. 405.",,"23000    85000    6",,,,"second","Other","2019-01-29 11:09:57","jcrae"
+"1015","Little Bennan Hill Mine","Little Bennan Hill Mine","Kirkcudbrightshire","NW of Gatehouse of Fleet, NE of Meickle Bennan, SW of Little Bennan","Meikle Bennan Mine, Rusco Mine, Rusko Mine","Meikle Bennan Mine Rusco Mine Rusko Mine",NULL,NULL,NULL,"NX","56600","61000","256600","561000","54.9230306884314","-4.23910247069741","Mine","Original coordinates are for Upper Rusko on E of Meikle Bennan Hill. Amended coordinates are for site of mine on upper slopes of hill. 
+
+See also Meikle Bennan Mine.","aditnow. 
+
+MMoS, p. 37.",,"56600    61000    6
+[55286]    [61599]",,,"Lead","second","Mine;ManMade;Archaeo","2018-02-06 14:17:09","jcrae"
+"3200","St. Fergus' Cave","St Fergus’ Cave","Angus","Glamis",,,NULL,NULL,NULL,"NO","38800","47000","338800","747000","56.6108617507014","-2.99865800623638","Cave",,,,"38800    47000    6",,,,"second","Cave","2018-03-26 10:17:50","alanj"
+"828","Glengaber Burn","Glengaber Burn","Peeblesshire","N of Megget Reservoir, W of Broomy Law, Glengaber Burn junction with Pairmains Gill","Glengaber Burn Mine","Glengaber Burn Mine",NULL,NULL,NULL,"NT","21400","23800","321400","623800","55.5016307626051","-3.24585482561301","Alluvial gold dug in 16th century. Probably all surface workings. Some pits, indentations and spoil heaps.","NT215237 - NT218232.","aditnow. 
+
+GMMoS, p. 28. 
+
+Canmore ID 51232.",,"21400    23800    6",,,"Gold","second","ManMade;Archaeo","2018-02-01 13:12:18","jcrae"
