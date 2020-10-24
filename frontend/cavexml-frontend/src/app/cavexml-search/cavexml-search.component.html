@@ -1,0 +1,91 @@
+<div class="cavexmlsearch">
+  <h1>Cave XML Search</h1>
+  <div class="search-header">
+    Show sites with following filter:
+    <table border="1">
+      <tr class="table-row">
+        <td class="td-text">Tag is</td>
+        <td class="td-text">
+          <select name="" id="tag" style="width: 180px">
+            <option value="any">any</option>
+            <option value="">dummy</option>
+            <option value="">dummy</option>
+            <option value="">dummy</option>
+            <option value="">dummy</option>
+            <option value="">dummy</option>
+            <option value="">dummy</option>
+          </select>
+        </td>
+        <td class="td-text">
+          Length is
+        </td>
+        <td class="td-text">
+          <select name="" id="length">
+            <option value="at_least">at least</option>
+            <option value="at_most">at most</option>
+          </select> &nbsp;
+          <input type="text" style="width: 60px"> &nbsp; metres
+        </td>
+      </tr>
+      <tr>
+        <td class="td-text">Vert. Range is</td>
+        <td class="td-text">
+          <select name="" id="v_range">
+            <option value="at_least">at least</option>
+            <option value="at_most">at most</option>
+          </select> &nbsp;
+          <input type="text" style="width: 40px"> &nbsp; metres
+        </td>
+        <td class="td-text">
+          Altitude is
+        </td>
+        <td class="td-text">
+          <select name="" id="altitude">
+            <option value="at_least">at least</option>
+            <option value="at_most">at most</option>
+          </select> &nbsp;
+          <input type="text" style="width: 60px"> &nbsp; metres
+        </td>
+      </tr>
+    </table> <br>
+    <button>search</button>&nbsp;Please leave the entry fields as empty to include all the matches!
+  </div>
+  <div class="search-result">
+    <!-- 5091 will be replaced by total count of the results fetched -->
+    <b>Showing results 1 to 30 of 5091 sites matching query</b> <br>
+    <span class="pagination">
+      <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    </span>
+    <table border="1">
+      <th class="td-text">Name</th>
+      <th class="td-text">Tags</th>
+      <th class="td-text">Length</th>
+      <th class="td-text">VR</th>
+      <th class="td-text">Altitude</th>
+      <!-- need to replace dummyData with the fetched results -->
+      <!-- change itemsPerPage value as per the requirement -->
+      <tr *ngFor=" let data of dummyData | paginate: {itemsPerPage: 2, currentPage: p}">
+        <!--  name, tags, length,vr, altitude would be changed a/c result fetched -->
+        <td class="td-text">
+          {{data.name}}
+        </td>
+         <td class="td-text">
+          {{data.tags}}
+        </td>
+        <td class="td-text">
+          {{data.length}}
+        </td>
+        <td class="td-text">
+          {{data.vr}}
+        </td>
+        <td class="td-text">
+          {{data.altitude}}
+        </td>
+      </tr>
+    </table>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+  </div>
+</div>
+<a href="" class="back-to-home">
+  <button style="width: 100px">Back</button>
+</a>

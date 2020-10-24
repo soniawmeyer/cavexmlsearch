@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+}
+.search-header, .search-result {
+  padding: 2% 20%;
+}
+table {
+  width: 100%;
+}
+
+.search-header table tr {
+  text-align: left;
+}
+
+.td-text {
+  padding: 2% 0% 2% 2%;
+}
+
+.search-result table th {
+  text-align: left;
+}
+
+::ng-deep pagination-controls  .ngx-pagination {
+  margin-left: -50px;
+}
+
+.back-to-home {
+  padding: 0% 45% 5% 45%;
+}
