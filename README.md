@@ -11,12 +11,12 @@ for pushing code- `git push origin main`
 4. visit https://localhost: 4000
 
 ## Contents 
-XML.db - 
-XMLconversion.py - 
-allcaves-database.xml - sample xml data used for testing purposes. Retrieved from:  https://github.com/nschorgh/CaveXML/blob/master/allcaves-database.xml 
-cave_data.xml - scraped data converted to a CaveXML format as defined here: https://github.com/nschorgh/CaveXML/blob/master/cavexml.md
-cavexmltosqlquery.py - 
-extracted_cave_data.csv - cave data scraped from: http://registry.gsg.org.uk/sr/browse.php
-flask_app.py - 
-sample_scraped.csv - sample of scraped data, used for reference purposes 
-scrape_data.py - code to scrape data from: http://registry.gsg.org.uk/sr/browse.php 
+1. XML.db 
+2. XMLconversion.py 
+3. allcaves-database.xml - sample xml data used for testing purposes. Retrieved from:  https://github.com/nschorgh/CaveXML/blob/master/allcaves-database.xml 
+4. cave_data.xml - scraped data converted to a CaveXML format as defined here: https://github.com/nschorgh/CaveXML/blob/master/cavexml.md
+5. cavexmltosqlquery.py 
+6. extracted_cave_data.csv - cave data scraped from: http://registry.gsg.org.uk/sr/browse.php
+7. flask_app.py 
+8. sample_scraped.csv - sample of scraped data, used for reference purposes 
+9. scrape_data.py - code to scrape data from: http://registry.gsg.org.uk/sr/browse.php 
