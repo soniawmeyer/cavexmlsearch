@@ -18,9 +18,9 @@
 * run `npm install`
 * run `ng serve` on the terminal
 2. simultaneously run flask app from the root folder
-* `export FLASK_APP = flask_app.py`
+* `export FLASK_APP=flask_app.py`
 * `flask run`
-3. visit https://localhost:4000
+3. visit http://localhost:4200
 
 ## Technical Notes 
 

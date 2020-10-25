@@ -72,9 +72,10 @@ export class CavexmlSearchComponent implements OnInit {
 
   // when Submit button is pressed
   onClickMe() {
-    let caves: Cave[] = getCaves()
-    console.log("caves: ", caves)
-    // window.alert(
+    getCaves()
+    // let caves: Cave[] = getCaves()
+    // console.log("caves: ", caves)
+    // // window.alert(
     //   "tag: " + this.tag +
     //   "\nlength: " + this.length +
     //   "\nvertical_extent: " + this.vertical_extent +
