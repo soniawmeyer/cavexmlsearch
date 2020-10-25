@@ -24,7 +24,7 @@
             <option value="at_least">at least</option>
             <option value="at_most">at most</option>
           </select> &nbsp;
-          <input type="text" style="width: 60px"> &nbsp; metres
+          <input type="text" style="width: 60px" #length (keydown.enter)="OnInput(OnInput.value)"> &nbsp; metres
         </td>
       </tr>
       <tr>
@@ -48,11 +48,12 @@
         </td>
       </tr>
     </table> <br>
-    <button>search</button>&nbsp;Please leave the entry fields as empty to include all the matches!
+    <button (click)="onClickMe()">Search</button>&nbsp;Please leave the entry fields as empty to include all the matches!
   </div>
   <div class="search-result">
     <!-- 5091 will be replaced by total count of the results fetched -->
-    <b>Showing results 1 to 30 of 5091 sites matching query</b> <br>
+    <b>Showing results 1 to 30 of {{dummyData.length}} sites matching query</b> 
+    <br>
     <span class="pagination">
       <pagination-controls (pageChange)="p = $event"></pagination-controls>
     </span>
