@@ -1,0 +1,1262 @@
+<CaveDataBase>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Test Cave [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>123.0</altitude>
+  <length>112.0</length>
+  <vertical-extent>22.0</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SSSI</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=1</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Deer Hill Cave</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Rising</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=2</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Allt Aoinidh (Pol)</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>260.0</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Sink</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=3</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Eighe (Pol) [eyehole]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>220.0</altitude>
+  <length>6.5</length>
+  <vertical-extent>3.0</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Sink, SSSI</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=4</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Eighe (Pol)</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>210.0</altitude>
+  <length>35.0</length>
+  <vertical-extent>5.0</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Sink</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=5</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Eighe (Pol) [Upper]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>205.0</altitude>
+  <length>12.5</length>
+  <vertical-extent>3.0</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Rising</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=6</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Marchburn Cave [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>6.0</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=7</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Aonan na Mala Natural Arch [2] (N).</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>20.0</altitude>
+  <length>10.0</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Rising, Arch</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=8</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Barlocco Cave [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>0.0</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=9</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Barlocco Cave [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>0.0</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=10</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Barlocco Cave [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>0.0</altitude>
+  <length>nan</length>
+  <vertical-extent>10.0</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=11</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Lossit [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=12</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Brolainne (Uamh na)</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>0.0</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=13</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Kilchoman [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>70.0</altitude>
+  <length>6.0</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=14</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Ardnave [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>0.0</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=15</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Bealach an t-Siucair [Find Spot]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=16</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Lagggan [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=17</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Cnoc Ebric [Find Spot]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=18</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Chotain (Port a') [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=19</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Rhuba Bholsa [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=20</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=21</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=22</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Aonan an Eorna [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=23</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Aonan an Eorna [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=24</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Aonan an Eorna [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=25</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Port Domhnaill Cruinn [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=26</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=27</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=28</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=29</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=30</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=31</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Chotain (Port a') [2]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=32</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=33</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [4]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=34</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Braigh a' Gheodh (Uamh)</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=35</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [5]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=36</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [6]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=37</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [7]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=38</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Biod nan Sgarbh [8]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=39</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Sgairail [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=40</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [4]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=41</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [6]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=42</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Donna (Uamhannan) [5]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=43</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Port Domhnaill Cruinn [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=44</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Port Domhnaill Cruinn [4]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=45</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Aonan an Eorna [8]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=46</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [13]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=47</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [14]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=48</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=49</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [4]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=50</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [5]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, SeaCave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=51</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [6]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=52</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [7]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=53</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [8]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=54</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [9]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=55</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [10]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=56</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilbeg [11]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=57</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Allt an t-Seana Chlaiginn [1]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=58</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Doodilmore River [3]</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Archaeo</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=59</reference>
+  <cave-use></cave-use>
+</record>
+<record>
+  <country-name></country-name>
+  <state-or-province></state-or-province>
+  <phys-area-name></phys-area-name>
+  <principal-cave-name>Glen Logan Natural Arch</principal-cave-name>
+  <other-cave-name></other-cave-name>
+  <latitudelongitude></latitudelongitude>
+  <altitude>nan</altitude>
+  <length>nan</length>
+  <vertical-extent>nan</vertical-extent>
+  <number-of-entrances></number-of-entrances>
+  <rock-type></rock-type>
+  <cave-type>Cave, Arch, SeaCave</cave-type>
+  <contents></contents>
+  <ice-deposit-type></ice-deposit-type>
+  <comments></comments>
+  <cave-system></cave-system>
+  <branch-name></branch-name>
+  <reference>http://registry.gsg.org.uk/sr/sitedetails.php?id=60</reference>
+  <cave-use></cave-use>
+</record>
+</CaveDataBase>
