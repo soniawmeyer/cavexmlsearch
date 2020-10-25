@@ -53,36 +53,27 @@ class CaveXMLtoSQLQuery:
         except:
             print("Error: Failed to create database")
 
-        #class variables
-        self.tag = "any" #lava tunnel
-        self.length = "20" #null default to 0
-        self.vertical_extent = "20"
-        self.altitude = "20"
-        self.length_gtlt = ">=" #must be >= or <=
-        self.vertical_extent_gtlt = ">="
-        self.altitude_gtlt = ">="
-
-    def sql_statement(self):
+    def sql_statement(self, tag, length, vertical_extent, altitude, length_gtlt, vertical_extent_gtlt, altitude_gtlt):
         '''the sql_statement takes class variables and returns an sql string'''
-        if self.length_gtlt == "<=":
+        if length_gtlt == "<=":
             length_max_min = "length_max"
         else:
             length_max_min = "length_min"
 
-        if self.vertical_extent_gtlt == "<=":
+        if vertical_extent_gtlt == "<=":
             vertical_extent_max_min = "vertical_extent_max"
         else:
             vertical_extent_max_min = "vertical_extent_min"
 
-        if self.altitude_gtlt == "<=":
+        if altitude_gtlt == "<=":
             altitude_max_min = "altitude_max"
         else:
             altitude_max_min = "altitude_min"
 
-        if self.tag == 'any':
-            return f'''select * from XML where {length_max_min} {self.length_gtlt} {self.length} and {vertical_extent_max_min} {self.vertical_extent_gtlt} {self.vertical_extent} and {altitude_max_min} {self.altitude_gtlt} {self.altitude}'''
+        if tag == 'any':
+            return f'''select * from XML where {length_max_min} {length_gtlt} {length} and {vertical_extent_max_min} {vertical_extent_gtlt} {vertical_extent} and {altitude_max_min} {altitude_gtlt} {altitude}'''
         else:
-            return f'''select * from XML where cave_type = "{self.tag} and {length_max_min} {self.length_gtlt} {self.length} and {vertical_extent_max_min} {self.vertical_extent_gtlt} {self.vertical_extent} and {altitude_max_min} {self.altitude_gtlt} {self.altitude}'''
+            return f'''select * from XML where cave_type = "{tag} and {length_max_min} {length_gtlt} {length} and {vertical_extent_max_min} {vertical_extent_gtlt} {vertical_extent} and {altitude_max_min} {altitude_gtlt} {altitude}'''
 
     def query(self, sql):
         '''the query function takes a sql statement as a string and return a json string'''
@@ -92,8 +83,7 @@ class CaveXMLtoSQLQuery:
 
     def main(self):
         sql = self.sql_statement()
-        print(sql)
-        print(self.query(sql))
+        return self.query(sql)
 
 
 if __name__ == "__main__":
