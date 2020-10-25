@@ -1,4 +1,5 @@
 
+
 import pandas as pd
 import urllib
 
@@ -17,29 +18,33 @@ cave_df = read_data('https://raw.githubusercontent.com/soniawmeyer/cavexmlsearch
 cave_df = cave_df.rename(columns={'Name': 'principal-cave-name', 'Length' : 'length', 'VR': 'vertical-extent', 'Altitude': 'altitude', 'Link': 'reference', 'Tags' : 'cave-type'})
 
 
-
 # https://stackoverflow.com/questions/18574108/how-do-convert-a-pandas-dataframe-to-xml 
 
 def func(row):
     
-    tags = ['country-name', 'state-or-province', 'phys-area-name', 'principal-cave-name', 'other-cave-name','latitude'
+    tags = ['country-name', 'state-or-province', 'phys-area-name', 'principal-cave-name', 'other-cave-name','latitude',
         'longitude', 'altitude', 'length','vertical-extent', 'number-of-entrances', 'rock-type', 'cave-type','contents',
         'ice-deposit-type','comments','cave-system','branch-name','reference','cave-use']
     
-    xml = ['<record>']
+    xml = ['   <record>']
     for item in tags:
         if item in row.index: 
-            xml.append(f'  <{item}>{row[item]}</{item}>')
+            xml.append(f'      <{item}>{row[item]}</{item}>')
         else: 
-            xml.append(f'  <{item}></{item}>')
-    xml.append('</record>')
+            xml.append(f'      <{item}/>')
+    xml.append('   </record>')
     return '\n'.join(xml)
 
 
 output = '\n'.join(cave_df.apply(func, axis=1))
-output_final = '<CaveDataBase>\n' + output + '\n</CaveDataBase>'
+output_final = '<?xml version="1.0" encoding="utf-8"?>\n' + '<?xml-stylesheet type="text/css" href="cavexml-db-table.css"?>\n' + '<CaveDataBase xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"\n    xs:schemaLocation="https://github.com/nschorgh/CaveXML/blob/master https://github.com/nschorgh/CaveXML/blob/master/cavexml.xsd">\n' + output + '\n</CaveDataBase>'
 
 
 with open('cave_data.xml', 'w') as f:
     f.write(output_final)
+
+
+
+
+
 
