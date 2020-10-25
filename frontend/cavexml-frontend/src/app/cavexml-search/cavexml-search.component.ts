@@ -32,6 +32,7 @@ export class CavexmlSearchComponent implements OnInit {
   // when length value is entered
   OnInputLen(value) {
     this.length = value;
+    return value;
   }
 
   // when vertical_extent value is entered

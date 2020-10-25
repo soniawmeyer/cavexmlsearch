@@ -52,7 +52,7 @@
   </div>
   <div class="search-result">
     <!-- 5091 will be replaced by total count of the results fetched -->
-    <b>Showing results 1 to 30 of {{dummyData.length}} sites matching query</b> 
+    <b>Showing results 1 to 3 of {{dummyData.length}} sites matching query</b> 
     <br>
     <span class="pagination">
       <pagination-controls (pageChange)="p = $event"></pagination-controls>
@@ -65,7 +65,7 @@
       <th class="td-text">Altitude</th>
       <!-- need to replace dummyData with the fetched results -->
       <!-- change itemsPerPage value as per the requirement -->
-      <tr *ngFor=" let data of dummyData | paginate: {itemsPerPage: 2, currentPage: p}">
+      <tr *ngFor=" let data of dummyData | paginate: {itemsPerPage: 3, currentPage: p}">
         <!--  name, tags, length,vr, altitude would be changed a/c result fetched -->
         <td class="td-text">
           {{data.name}}

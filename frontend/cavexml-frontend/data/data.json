@@ -1,15 +1,29 @@
 [{
-    "name" : "Cave 1", 
-    "tags" : "11111", 
-    "length": 1, 
-    "vr": 11, 
-    "altitude": 11111111
+    "name" : "Deer Hill Cave", 
+    "tags" : "Cave, Rising", 
+    "length": 123, 
+    "vr": 22, 
+    "altitude": 55
 },
 {
-    "name" : "Cave 2", 
-    "tags" : "22222", 
+    "name" : "Barlocco Cave", 
+    "tags" : "Cave, SeaCave", 
+    "length": 2000, 
+    "vr": 25, 
+    "altitude": 0
+},
+{
+    "name" : "St. Cormac's Cave", 
+    "tags" : "Cave, Archaeo, SAM", 
     "length": 2, 
-    "vr": 22, 
-    "altitude": 2222222
+    "vr": 2, 
+    "altitude": 15
+},
+{
+    "name" : "AHS Cave", 
+    "tags" : "Cave", 
+    "length": 18, 
+    "vr": 2, 
+    "altitude": 385
 }]
 
