@@ -42,6 +42,7 @@ class CaveXMLtoSQLQuery:
             for column in number_columns:
                 xml_df[f'{column}_max'] = xml_df[column].apply(find_max)
                 xml_df[f'{column}_min'] = xml_df[column].apply(find_min)
+            xml_df = xml_df.fillna("")
         except:
             print(f"Error: Failed to read or process {xmlfile}")
 
