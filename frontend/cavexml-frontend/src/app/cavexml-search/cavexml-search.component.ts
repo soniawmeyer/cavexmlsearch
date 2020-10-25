@@ -18,14 +18,15 @@ export class CavexmlSearchComponent implements OnInit {
 
   // when Submit button is pressed
   onClickMe() {
-    this.tag;
-    this.length;
-    this.vertical_extent;
-    this.altitude;
-    this.length_gtlt;
-    this.vertical_extent_gtlt;
-    this.altitude_gtlt;
-    window.alert("length="+this.length);
+    window.alert(
+      "tag: " + this.tag +
+      "\nlength: " + this.length +
+      "\nvertical_extent: " + this.vertical_extent +
+      "\naltitude: " + this.altitude +
+      "\nlength_gtlt: " + this.length_gtlt +
+      "\nvertical_extent_gtlt: " + this.vertical_extent_gtlt +
+      "\naltitude_gtlt: " + this.altitude_gtlt
+    );
   }
 
   // when length value is entered

@@ -24,7 +24,7 @@
             <option value="at_least">at least</option>
             <option value="at_most">at most</option>
           </select> &nbsp;
-          <input type="text" style="width: 60px" #length (keydown.enter)="OnInput(OnInput.value)"> &nbsp; metres
+          <input type="text" style="width: 60px" #length (keydown.enter)="OnInputLen(length.value)"> &nbsp; metres
         </td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@
             <option value="at_least">at least</option>
             <option value="at_most">at most</option>
           </select> &nbsp;
-          <input type="text" style="width: 40px"> &nbsp; metres
+          <input type="text" style="width: 40px" #range (keydown.enter)="OnInputVE(range.value)"> &nbsp; metres
         </td>
         <td class="td-text">
           Altitude is
@@ -44,7 +44,7 @@
             <option value="at_least">at least</option>
             <option value="at_most">at most</option>
           </select> &nbsp;
-          <input type="text" style="width: 60px"> &nbsp; metres
+          <input type="text" style="width: 60px" #altitude (keydown.enter)="OnInputAlt(altitude.value)"> &nbsp; metres
         </td>
       </tr>
     </table> <br>
